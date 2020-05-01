@@ -19,7 +19,7 @@ public class TestController {
 	private HelloWorldController helloWorldController;
 
 	private MockMvc mockMvc;
-#test code merge to develop
+
 	@Before
 	public void setup() {
 		MockitoAnnotations.initMocks(this);
